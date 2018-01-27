@@ -1,0 +1,7 @@
+./pixiv_temp
+account
+./__pycache__
+cookies
+garage
+nohup.out
+token.txt
