@@ -1,6 +1,6 @@
 pixiv_temp
 account
-./__pycache__
+__pycache__
 cookies
 garage
 nohup.out
