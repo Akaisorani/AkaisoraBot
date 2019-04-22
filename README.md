@@ -39,5 +39,7 @@ Parameter description
 /pixiv id 61777818
 /pixiv normalrank >file
 ```
-![sample_1.gif](https://s2.ax1x.com/2019/04/22/EAKBxP.gif)
-![sample_2.gif](https://s2.ax1x.com/2019/04/22/EAKXGR.gif)
+<table><tr>
+<td><img src="https://s2.ax1x.com/2019/04/22/EAMO0S.gif" alt="EAMO0S.gif" border="0" /></td>
+<td><img src="https://s2.ax1x.com/2019/04/22/EAMXTg.gif" alt="EAMXTg.gif" border="0" /></td>
+</tr></table>
