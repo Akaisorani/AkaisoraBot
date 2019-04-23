@@ -40,6 +40,6 @@ Parameter description
 /pixiv normalrank >file
 ```
 <table><tr>
-<td><img src="https://s2.ax1x.com/2019/04/22/EAMO0S.gif" alt="EAMO0S.gif" border="0" /></td>
-<td><img src="https://s2.ax1x.com/2019/04/22/EAMXTg.gif" alt="EAMXTg.gif" border="0" /></td>
+<td><img src="https://s2.ax1x.com/2019/04/23/EA2y9J.jpg" alt="samplea.jpg" border="0" /></td>
+<td><img src="https://s2.ax1x.com/2019/04/23/EA2ccR.jpg" alt="sampleb.jpg" border="0" /></td>
 </tr></table>
